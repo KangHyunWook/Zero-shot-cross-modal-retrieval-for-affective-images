@@ -1,5 +1,7 @@
 # Zero-shot-cross-modal-retrieval-for-affective-images
 
+유툽: https://www.youtube.com/watch?v=W-5dkILqmxc
+
 I allow the use of this code only for educational purposes.<br />
 The copyright is to the owner of the code <br />
 Please, do not share the copy of this code. <br />
